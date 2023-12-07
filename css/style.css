@@ -1,0 +1,35 @@
+#flname {
+  border: red 2px solid;
+}
+
+#profile {
+
+border: white 3px solid;
+}
+
+#history {
+  color: yellow;
+}
+
+#gallery {
+  color: blue;
+}
+
+#contact {
+  color: red;
+}
+
+#avatar {
+  background-color: green;
+}
+
+.main {
+  background-color: grey;
+border: red 5px solid;
+}
+
+
+p{
+font-family: "Lucida Console", "Courier New", monospace;
+color: blue;
+}
